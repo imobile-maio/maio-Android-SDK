@@ -2,8 +2,8 @@
 
 # maio iOS SDK
 - SDK Version: 1.0.2
-- Released: 2016//
-- 対応 Android Version:  以降
+- Released: 2016/07/12
+- 対応 Android Version: 4.1 以降
 
 ## What is maio?
 [maio](https://maio.jp/) はこれまでのバナー広告に加え、新たな広告収益の機会を得ることが可能な動画広告プラットフォームです。  
