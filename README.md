@@ -22,5 +22,8 @@ Eclipse https://github.com/imobile-maio/maio-Android-SDK/wiki/Project-Setup---Ec
 ## API Reference
 https://github.com/imobile-maio/maio-Android-SDK/wiki/API-Reference
 
+## FAQ
+https://github.com/imobile-maio/maio-Android-SDK/wiki/API-Reference
+
 ## Contact Us
 https://maio.jp/#contactWrap
