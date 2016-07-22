@@ -16,7 +16,8 @@
 maio パートナーページから SDK をダウンロードできます。
 
 ## Get Started
-https://github.com/imobile-maio/maio-Android-SDK/wiki/Get-Started 
+Android Studio https://github.com/imobile-maio/maio-Android-SDK/wiki/Project-Setup---Android-Studio  
+Eclipse https://github.com/imobile-maio/maio-Android-SDK/wiki/Project-Setup---Eclipse
 
 ## API Reference
 https://github.com/imobile-maio/maio-Android-SDK/wiki/API-Reference
