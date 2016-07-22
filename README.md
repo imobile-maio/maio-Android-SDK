@@ -23,7 +23,7 @@ Eclipse https://github.com/imobile-maio/maio-Android-SDK/wiki/Project-Setup---Ec
 https://github.com/imobile-maio/maio-Android-SDK/wiki/API-Reference
 
 ## FAQ
-https://github.com/imobile-maio/maio-Android-SDK/wiki/API-Reference
+https://github.com/imobile-maio/maio-Android-SDK/wiki/FAQ
 
 ## Contact Us
 https://maio.jp/#contactWrap
