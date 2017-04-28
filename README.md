@@ -13,7 +13,7 @@
 今までユーザーが離脱していたポイントに `動画広告 + リワード` を入れる事で、ユーザーのストレスを解消しアクティブ率を向上させる事も可能です。  
 
 ## Download
-maio パートナーページから SDK をダウンロードできます。
+[releases](https://github.com/imobile-maio/maio-Android-SDK/releases) から最新のリリースバージョンをダウンロードして下さい。
 
 ## Get Started
 Android Studio https://github.com/imobile-maio/maio-Android-SDK/wiki/Project-Setup---Android-Studio  
