@@ -11,7 +11,7 @@
 ## Get Started
 Android Studio (日本語） https://github.com/imobile-maio/maio-Android-SDK/wiki/Project-Setup---Android-Studio  
 
-Android Studio (English) https://github.com/imobile-maio/maio-Android-SDK/wiki/Project-Setup---Android-Studio-(EN)  
+Android Studio (English) https://github.com/imobile-maio/maio-Android-SDK/wiki/Project-Setup-Android-Studio-(EN)  
 
 Eclipse https://github.com/imobile-maio/maio-Android-SDK/wiki/Project-Setup---Eclipse
 
