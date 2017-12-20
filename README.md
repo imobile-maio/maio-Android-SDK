@@ -75,6 +75,8 @@ if(MaioAds.canShow()){
 }
 </code></pre>
 
+maio SDKの全ての機能や詳細については、API Referenceを参照して下さい。
+
 For more detailed samples and details on all of maio SDKs functions check out the API reference
 
 - 日本語　https://github.com/imobile-maio/maio-Android-SDK/wiki/API-Reference
