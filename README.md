@@ -29,51 +29,54 @@
   implementation 'com.google.android.gms:play-services-ads:+'
   implementation 'com.maio:android-sdk:1.0.7'
 }
-</code></pre>
+</pre></code>
 
 - maioアクティビティをマニフェストに追加します：
 - Add the maio activity to your manifest:
 
-<pre><code>&lt;activity
+```xml 
+<activity
   android:name="jp.maio.sdk.android.AdFullscreenActivity"
   android:configChanges="orientation|screenLayout|screenSize|smallestScreenSize"
   android:hardwareAccelerated="true"
   android:label="maiosdk"
-  android:theme="@android:style/Theme.NoTitleBar.Fullscreen" &gt;
-  &lt;intent-filter&gt;
-                &lt;data android:scheme="jp.maio.sdk.android"/&gt;
-                &lt;action android:name="android.intent.action.VIEW" /&gt;
-                &lt;category android:name="android.intent.category.DEFAULT" /&gt;
-                &lt;category android:name="android.intent.category.BROWSABLE" /&gt;
-            &lt;/intent-filter&gt;
-&lt;/activity&gt;
-</code></pre> 
+  android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+  <intent-filter>
+                <data android:scheme="jp.maio.sdk.android"/>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+            </intent-filter>
+</activity>
+```
 
 ### maio SDKの準備・maio SDK setup
 
 
-<pre><code>private final String MEDIA_EID = "DemoPublisherMediaForAndroid";
+```java
+private final String MEDIA_EID = "DemoPublisherMediaForAndroid";
 protected void onCreate(Bundle savedInstanceState) {
  
    //初期化
    MaioAds.init(this, MEDIA_EID, new MaioAdsListener() {      
-      &commat;Override
+      @Override
       public void onFinishedAd(int playtime, boolean skipped, int duration, String zoneEid) {
       }
-      &commat;Override
+      @Override
       public void onClosedAd(String zoneEid) {          
       }
    });
 }
-</code></pre>
+```
 
 ### maioの表示・Show maio Ads
 
-<pre><code>//再生
+```java
+//再生
 if(MaioAds.canShow()){
   MaioAds.show();
 }
-</code></pre>
+```
 
 maio SDKの全ての機能や詳細については、API Referenceを参照して下さい。
 
