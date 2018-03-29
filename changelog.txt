@@ -1,3 +1,7 @@
+■ maio-Android-SDK-1.0.8 リリース
+
+- onClosedAd不具合を修正
+
 ■ maio-Android-SDK-1.0.7 リリース
 
 - 初期化処理クラッシュを修正
