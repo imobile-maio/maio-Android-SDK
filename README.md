@@ -1,7 +1,7 @@
 ![](https://github.com/imobile-maio/maio-iOS-SDK/blob/wiki/doc/images/logo.png)
 
 # maio Android SDK
-- SDK Version: 1.0.7
+- SDK Version: 1.0.8
 - Released: 2017/12/15
 - 対応 Android Version: 4.1 以降
 - Supported Formats: Rewarded/Interstitial
