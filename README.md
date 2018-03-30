@@ -2,7 +2,7 @@
 
 # maio Android SDK
 - SDK Version: 1.0.8
-- Released: 2017/12/15
+- Released: 2018/03/30
 - 対応 Android Version: 4.1 以降
 - Supported Formats: Rewarded/Interstitial
 
