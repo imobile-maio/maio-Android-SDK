@@ -1,3 +1,7 @@
+■ maio-Android-SDK-1.1.0 リリース
+
+- プレイアブルアドに対応しました。
+
 ■ maio-Android-SDK-1.0.8 リリース
 
 - onClosedAd不具合を修正
