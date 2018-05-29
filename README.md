@@ -2,6 +2,8 @@
 
 # maio Android SDK
 - SDK Version: 1.1.0
+    + AndroidManifest.xmlにHtmlBasedAdActivityを追加してください。
+    + Please Add HtmlBasedAdActivity to AndroidManifest.xml.
 - Released: 2018/05/29
 - 対応 Android Version: 4.1 以降
 - Supported Formats: Rewarded/Interstitial
