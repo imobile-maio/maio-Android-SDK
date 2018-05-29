@@ -48,6 +48,11 @@
                 <category android:name="android.intent.category.BROWSABLE" />
             </intent-filter>
 </activity>
+<activity
+            android:name="jp.maio.sdk.android.HtmlBasedAdActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize|screenLayout"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+</activity>
 ```
 
 ### maio SDKの準備・maio SDK setup
