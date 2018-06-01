@@ -29,7 +29,7 @@
 
 <pre><code>dependencies {
   implementation 'com.google.android.gms:play-services-ads:+'
-  implementation 'com.maio:android-sdk:1.0.8'
+  implementation 'com.maio:android-sdk:1.1.0'
 }
 </pre></code>
 
