@@ -39,13 +39,13 @@
 ```xml 
 <activity  
           android:name="jp.maio.sdk.android.AdFullscreenActivity"  
-          android:configChanges="orientation|screenLayout|screenSize|smallestScreenSize"  
+          android:configChanges="orientation|screenLayout|screenSize"  
           android:hardwareAccelerated="true"  
           android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >  
 </activity>
 <activity            
           android:name="jp.maio.sdk.android.HtmlBasedAdActivity"            
-          android:configChanges="keyboardHidden|orientation|screenSize|screenLayout"            
+          android:configChanges="keyboardHidden|orientation|screenSize"            
           android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
 </activity>
 ```
