@@ -33,6 +33,8 @@
 }
 </pre></code>
 
+### maio SDK Manifest Settings
+
 - maioアクティビティをマニフェストに追加します：
 - Add the maio activity to your manifest:
 
