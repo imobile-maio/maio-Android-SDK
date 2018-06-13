@@ -1,6 +1,17 @@
-■ maio-Android-SDK-1.1.0 リリース
+■ maio-Android-SDK-1.1.1 リリース
 
 - プレイアブルアドに対応しました。
+
+■ maio-Android-SDK-1.1.0 リリース
+
+maio-Android-SDK v1.1.0では、AndroidManifestにHtmlBasedAdActivityが追加がされていない場合にプレイアブルアドが配信されると、
+アプリがクラッシュするリスクが判明したため、v1.1.0に対するプレイアブルアドの配信を停止させていただきました。
+※プレイアブルアドの停止処理をしたため、アプリのクラッシュは発生いたしません。
+
+プレイアブルアドの対応Verは、maio-Android-SDK v1.1.1(来週リリース予定)とさせていただきます。
+※v 1.1.1にもAndroidManifestにHtmlBasedAdActivityを追加する必要がございます。
+※v 1.1.1では追加が無かった場合にクラッシュが発生しないように対応しております。
+(追加が無かった場合、プレイアブルアドは配信されません)
 
 ■ maio-Android-SDK-1.0.8 リリース
 
