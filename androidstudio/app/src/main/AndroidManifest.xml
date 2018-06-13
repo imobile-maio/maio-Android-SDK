@@ -27,22 +27,15 @@
         </activity>
         <activity
             android:name="jp.maio.sdk.android.AdFullscreenActivity"
+            android:configChanges="orientation|screenLayout|screenSize"
             android:hardwareAccelerated="true"
-            android:label="maiosdk"
-            android:configChanges="orientation|screenLayout|screenSize|smallestScreenSize"
             android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
-            <intent-filter>
-                <data android:scheme="jp.maio.sdk.android"/>
-                <action android:name="android.intent.action.VIEW" />
-                <category android:name="android.intent.category.DEFAULT" />
-                <category android:name="android.intent.category.BROWSABLE" />
-            </intent-filter>
         </activity>
         <activity
             android:name="jp.maio.sdk.android.HtmlBasedAdActivity"
-            android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen"
-            android:hardwareAccelerated="true"
-            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
     </application>
 
 </manifest>
