@@ -27,16 +27,26 @@
 - maioSDKとGoogle Play Servicesをモジュールの`build.gradle`に追加します：
 - Add the maio SDK and Google Play Services to your project by adding the following implementations inside your Module build.grade:
 
+### jar 
+
 <pre><code>dependencies {
   implementation 'com.google.android.gms:play-services-ads:+'
-  implementation 'com.maio:android-sdk:1.1.0'
+  implementation 'com.maio:android-sdk:1.1.1'
+}
+</pre></code>
+
+### aar
+
+<pre><code>dependencies {
+  implementation 'com.google.android.gms:play-services-ads:+'
+  implementation 'com.maio:android-sdk:1.1.1@aar'
 }
 </pre></code>
 
 ### maio SDK Manifest Settings
 
-- maioアクティビティをマニフェストに追加します：
-- Add the maio activity to your manifest:
+- maioアクティビティをマニフェストに追加します (aarの場合に必要ありません）：
+- Add the maio activity to your manifest (not needed when using aar):
 
 ```xml 
 <activity  
