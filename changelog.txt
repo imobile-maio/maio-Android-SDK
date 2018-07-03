@@ -1,3 +1,7 @@
+■ maio-Android-SDK-1.1.2 リリース
+
+- onClickedAd不具合を修正
+
 ■ maio-Android-SDK-1.1.1 リリース
 
 - プレイアブルアドに対応しました。
