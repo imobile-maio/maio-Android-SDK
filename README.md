@@ -4,7 +4,7 @@
 - SDK Version: 1.1.3
     + AndroidManifest.xmlにHtmlBasedAdActivityを追加してください。
     + Please Add HtmlBasedAdActivity to AndroidManifest.xml.
-- Released: 2018/07/18
+- Released: 2018/07/19
 - 対応 Android Version: 4.1 以降
 - Supported Formats: Rewarded/Interstitial
 
