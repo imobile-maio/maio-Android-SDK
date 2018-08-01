@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
     private final String MEDIA_EID = "DemoPublisherMediaForAndroid";
     private final String ZONE_EID1 = "DemoPublisherZoneForAndroid";
     private final String ZONE_EID2 = "DemoPublisherZoneSkippableForAndroid";
+    private final String ZONE_EID3 = "DemoPublisherZonePlayableForAndroid";
 
     static ArrayList<String> arrayList = new ArrayList<String>();
     static ArrayAdapter<String> adapter;
