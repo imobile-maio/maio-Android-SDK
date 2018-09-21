@@ -31,7 +31,7 @@
 
 <pre><code>dependencies {
   implementation 'com.google.android.gms:play-services-ads:+'
-  implementation 'com.maio:android-sdk:1.1.3'
+  implementation 'com.maio:android-sdk:1.1.4'
 }
 </pre></code>
 
@@ -39,7 +39,7 @@
 
 <pre><code>dependencies {
   implementation 'com.google.android.gms:play-services-ads:+'
-  implementation 'com.maio:android-sdk:1.1.3@aar'
+  implementation 'com.maio:android-sdk:1.1.4@aar'
 }
 </pre></code>
 
