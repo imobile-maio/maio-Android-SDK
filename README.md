@@ -45,7 +45,7 @@
 
 ### maio SDK Manifest Settings
 
-- マニフェストへ以下の要素を追加します:
+- マニフェストへ以下の要素を追加します：
 - Add the following element to your manifest:
 
 ```xml
