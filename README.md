@@ -45,6 +45,13 @@
 
 ### maio SDK Manifest Settings
 
+- マニフェストへ以下の要素を追加します：
+- Add the following element to your manifest:
+
+```xml
+<uses-library android:name="org.apache.http.legacy" android:required="false" />
+```
+
 - maioアクティビティをマニフェストに追加します (aarの場合に必要ありません）：
 - Add the maio activity to your manifest (not needed when using aar):
 
