@@ -9,7 +9,8 @@
         android:hardwareAccelerated="true"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
-
+        
+        <!--maio Android SDK 1.1.4 and below-->
         <uses-library android:name="org.apache.http.legacy" android:required="false" />
 
         <activity
