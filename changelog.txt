@@ -1,3 +1,10 @@
+■ maio-Android-SDK-1.1.5 リリース
+
+-　OnFailedが呼び出されてないを修正
+-　HttpClientを使わないように変更
+- initWithNonDefaultMediaIdがメインスレッドをブロックしないように修正
+-　Html動画リスナー不具合を修正
+
 ■ maio-Android-SDK-1.1.4 リリース
 
 - compileSdkVersion/targetSdkVersionを26にあげました。
