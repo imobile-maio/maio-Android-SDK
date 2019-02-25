@@ -1,3 +1,7 @@
+■ maio-Android-SDK-1.1.7 リリース
+
+- 広告再生時不具合を修正
+
 ■ maio-Android-SDK-1.1.6 リリース
 
 - Html動画不具合を修正
