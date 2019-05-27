@@ -5,3 +5,12 @@
 .DS_Store
 /build
 /captures
+
+# Intellij
+*.iml
+/.idea/gradle.xml
+/.idea/tasks.xml
+/.idea/misc.xml
+/.idea/dictionaries
+/.idea/caches/gradle_models.ser
+/.idea/caches/build_file_checksums.ser
