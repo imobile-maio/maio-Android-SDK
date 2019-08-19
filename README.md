@@ -1,10 +1,10 @@
 ![](https://github.com/imobile-maio/maio-iOS-SDK/blob/wiki/doc/images/logo.png)
 
 # maio Android SDK
-- SDK Version: 1.1.9
+- SDK Version: 1.1.10
     + AndroidManifest.xmlにHtmlBasedAdActivityを追加してください。
     + Please Add HtmlBasedAdActivity to AndroidManifest.xml.
-- Released: 2019/07/01
+- Released: 2019/08/19
 - 対応 Android Version: 4.1 以降
 - Supported Formats: Rewarded/Interstitial
 
@@ -31,7 +31,7 @@
 
 <pre><code>dependencies {
   implementation 'com.google.android.gms:play-services-ads:+'
-  implementation 'com.maio:android-sdk:1.1.9'
+  implementation 'com.maio:android-sdk:1.1.10'
 }
 </pre></code>
 
@@ -39,7 +39,7 @@
 
 <pre><code>dependencies {
   implementation 'com.google.android.gms:play-services-ads:+'
-  implementation 'com.maio:android-sdk:1.1.9@aar'
+  implementation 'com.maio:android-sdk:1.1.10@aar'
 }
 </pre></code>
 

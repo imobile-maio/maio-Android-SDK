@@ -1,3 +1,7 @@
+■ maio-Android-SDK-1.1.10 リリース
+
+- compileSdkVersion/targetSdkVersionを28にあげました。
+
 ■ maio-Android-SDK-1.1.9 リリース
 
 - バックグラウンド時の広告リリーソスダウンロード通信を行わないように修正
