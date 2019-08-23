@@ -1,9 +1,9 @@
 package jp.maio.sdk.android.sample;
 
+import android.app.Activity;
 import android.app.ActivityManager;
 import android.content.Intent;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
@@ -14,7 +14,7 @@ import jp.maio.sdk.android.FailNotificationReason;
 import jp.maio.sdk.android.MaioAds;
 import jp.maio.sdk.android.MaioAdsListener;
 
-public class SecondActivity extends AppCompatActivity {
+public class SecondActivity extends Activity {
 
     private final String TAG = SecondActivity.class.getSimpleName();
 
