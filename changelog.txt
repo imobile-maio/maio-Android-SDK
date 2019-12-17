@@ -1,3 +1,8 @@
+■ maio-Android-SDK-1.1.11 リリース
+
+- 音声の出力先情報を取得するようになりました。
+- プレイアブルアドを再生できない場合に終了ボタンが動かない不具合を修正しました。
+
 ■ maio-Android-SDK-1.1.10 リリース
 
 - compileSdkVersion/targetSdkVersionを28にあげました。
