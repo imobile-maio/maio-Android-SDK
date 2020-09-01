@@ -1,3 +1,9 @@
+■ maio-Android-SDK-1.1.12 リリース
+
+- Googleの規約変更対応。
+- プレイアブル広告の新しい挙動に対応します。
+- compileSdkVersion/targetSdkVersionを29にあげました。
+
 ■ maio-Android-SDK-1.1.11 リリース
 
 - 音声の出力先情報を取得するようになりました。
