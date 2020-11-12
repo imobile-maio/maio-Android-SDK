@@ -1,3 +1,7 @@
+■ maio-Android-SDK-1.1.14 リリース
+
+- 広告再生時不具合を修正
+
 ■ maio-Android-SDK-1.1.13 リリース
 
 - compileSdkVersion/targetSdkVersionを30にあげました。
