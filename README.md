@@ -4,7 +4,7 @@
 - SDK Version: 1.1.15
     + AndroidManifest.xmlにHtmlBasedAdActivityを追加してください。
     + Please Add HtmlBasedAdActivity to AndroidManifest.xml.
-- Released: 2020/11/12
+- Released: 2021/11/08
 - 対応 Android Version: 4.1 以降
 - Supported Formats: Rewarded/Interstitial
 
@@ -31,7 +31,7 @@
 
 <pre><code>dependencies {
   implementation 'com.google.android.gms:play-services-ads:+'
-  implementation 'com.maio:android-sdk:1.1.15'
+  implementation 'com.maio:android-sdk:1.1.16'
 }
 </pre></code>
 
@@ -39,7 +39,7 @@
 
 <pre><code>dependencies {
   implementation 'com.google.android.gms:play-services-ads:+'
-  implementation 'com.maio:android-sdk:1.1.15@aar'
+  implementation 'com.maio:android-sdk:1.1.16@aar'
 }
 </pre></code>
 
