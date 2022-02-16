@@ -141,8 +141,7 @@ English https://github.com/imobile-maio/maio-Android-SDK/wiki/FAQ-(EN)
  ## 収集しているデータについて
 
  
-2022年4月以降、Play Consoleのデータセーフティセクションに、アプリが収集／共有するユーザーデータを登録する必要があります。詳しくは[Play Consoleのヘルプページ](https://support.google.com/googleplay/android-developer/answer/10787469?hl=ja)を参照してください。  
-i-mobile Android SDKで収集している情報は以下のとおりです。
+2022年4月以降、Play Consoleのデータセーフティセクションに、アプリが収集／共有するユーザーデータを登録する必要があります。詳しくは[Play Consoleのヘルプページ](https://support.google.com/googleplay/android-developer/answer/10787469?hl=ja)を参照してください。maio Android SDKで収集している情報は以下のとおりです。
 
 ## ユーザーデータの収集とセキュリティ
 
