@@ -1,5 +1,17 @@
 ![](https://github.com/imobile-maio/maio-iOS-SDK/blob/wiki/doc/images/logo.png)
 
+> [!IMPORTANT]
+> ## maio SDK v1 サポート終了のお知らせ / maio SDK v1 End of Support Notice
+> 
+> 2025年9月を以て、maio SDK v1 はサポートおよび広告の提供を終了しました。  
+> [**maio SDK v2**](https://github.com/imobile/MaioSDK-v2-Android) をご利用ください。
+> 
+> As of September 2025, maio SDK v1 has ended support and ad delivery.  
+> Please use [**maio SDK v2**](https://github.com/imobile/MaioSDK-v2-Android).
+
+---
+
+
 # maio Android SDK
 - SDK Version: 1.1.16
     + AndroidManifest.xmlにHtmlBasedAdActivityを追加してください。
